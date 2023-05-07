@@ -18,10 +18,3 @@ const timeFromTheThird = () => {
 
     return `Pasaron ${days} días, ${hours} horas y ${minutes} minutos desde el Domingo, 18 de diciembre de 2022`;
 }
-
-
-
-
-
-
-
