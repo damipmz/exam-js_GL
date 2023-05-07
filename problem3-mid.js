@@ -442,5 +442,3 @@ const listUserWithMovies = (users, movies) => {
 
     return userInformation;
 };
-
-console.log(listUserWithMovies(users, movies));
