@@ -6,7 +6,7 @@ para indicar cuántos días pasaron hasta hoy de manera “humanizada”.
 daysFromTheThird() */
 
 
-const timeFromTheThird = () => {
+const humanizeDate = () => {
 
     let theThirdDate = new Date("12/18/2022"); // Ingreso la fecha de la final del mundial (esta en milisegundos).
     let today = new Date(); // Obtengo la fecha actual.
